@@ -39,7 +39,7 @@ I analyzed the **World Happiness Report** using three tools and produced an end-
 - Combined them into one **dashboard**.
 
 **Interactive dashboard:**  
-[View on Tableau Public]( https://public.tableau.com/app/profile/ana.tivold/viz/Worldhappinessreport-SQLMiniProject/Dashboard1?publish=yes) 
+[View on Tableau Public](https://public.tableau.com/app/profile/ana.tivold/viz/Worldhappinessreport-SQLMiniProject/Dashboard1?publish=yes) 
 
 ## Repository Structure
 
@@ -89,7 +89,7 @@ Linear model: *Life Ladder = a + b × Log GDP per capita*.
 - **Slovenia:** mid-to-high, relatively stable.
 
 ### Dashboard
-![Dashboard](tableau/dashboard.png)
+![Dashboard](tableau/dashboard.png) (https://public.tableau.com/app/profile/ana.tivold/viz/Worldhappinessreport-SQLMiniProject/Dashboard1?publish=yes)
 
 ---
 
