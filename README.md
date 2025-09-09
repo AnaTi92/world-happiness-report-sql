@@ -48,7 +48,7 @@ I analyzed the **World Happiness Report** using three tools and produced an end-
 ## Visualizations (Tableau)
 
 ### RQ1 — Regional Differences
-
+![RQ1](tableau/rq1_chart.png)
 
 **Highlights:** Western Europe and North America & ANZ have the highest averages; Sub-Saharan Africa and South Asia rank lowest.
 
