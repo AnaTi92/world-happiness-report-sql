@@ -48,18 +48,18 @@ I analyzed the **World Happiness Report** using three tools and produced an end-
 ## Visualizations (Tableau)
 
 ### RQ1 — Regional Differences
-![RQ1](tableau/rq1_chart.png)
+![RQ1](tableau/rq1_chart.png.png)
 
 **Highlights:** Western Europe and North America & ANZ have the highest averages; Sub-Saharan Africa and South Asia rank lowest.
 
 ### RQ2 — GDP vs Happiness
-![RQ2](tableau/rq2_scatter.png)
+![RQ2](tableau/rq2_scatter.png.png)
 
 **Findings:** Strong positive correlation (**Pearson r ~ 0.7–0.8**).  
 Linear model: *Life Ladder = a + b × Log GDP per capita*.
 
 ### RQ3 — Time Trends (AFG, FIN, SVN)
-![RQ3](tableau/rq3_line.png)
+![RQ3](tableau/rq3_line.png.png)
 
 - **Afghanistan:** low and declining levels.  
 - **Finland:** high and stable.  
