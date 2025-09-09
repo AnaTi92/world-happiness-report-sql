@@ -41,7 +41,6 @@ I analyzed the **World Happiness Report** using three tools and produced an end-
 [View on Tableau Public]( https://public.tableau.com/app/profile/ana.tivold/viz/Worldhappinessreport-SQLMiniProject/Dashboard1?publish=yes) 
 
 ## Repository Structure
-
 world-happiness-sql/
 ├─ data/
 │  ├─ rq1_regional_differences.csv
