@@ -8,7 +8,6 @@ I analyzed the **World Happiness Report** using three tools and produced an end-
 - **Tableau Public** – visualizations and an interactive dashboard.
 - Data source: World Happiness Report (https://www.kaggle.com/datasets/usamabuttar/world-happiness-report-2005-present?resource=download)
 
-> A short written **report (PDF)** will be added to the repository soon.
 
 ---
 
