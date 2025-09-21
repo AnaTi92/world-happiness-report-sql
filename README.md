@@ -77,7 +77,7 @@ world-happiness-sql/
 ### RQ2 — GDP vs Happiness
 ![RQ2](tableau/rq2_scatter.png)
 
-**Findings:** Strong positive correlation (**Pearson r ~ 0.7–0.8**).  
+**Findings:** Strong positive correlation (**Pearson r = 0.68).  
 Linear model: *Life Ladder = a + b × Log GDP per capita*.
 
 ### RQ3 — Time Trends (AFG, FIN, SVN)
